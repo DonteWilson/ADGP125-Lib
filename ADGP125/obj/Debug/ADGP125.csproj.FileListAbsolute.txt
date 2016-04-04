@@ -1,0 +1,5 @@
+c:\users\dr_si\onedrive\documents\visual studio 2015\Projects\ADGP125\ADGP125\bin\Debug\ADGP125.dll
+c:\users\dr_si\onedrive\documents\visual studio 2015\Projects\ADGP125\ADGP125\bin\Debug\ADGP125.pdb
+c:\users\dr_si\onedrive\documents\visual studio 2015\Projects\ADGP125\ADGP125\obj\Debug\ADGP125.csprojResolveAssemblyReference.cache
+c:\users\dr_si\onedrive\documents\visual studio 2015\Projects\ADGP125\ADGP125\obj\Debug\ADGP125.dll
+c:\users\dr_si\onedrive\documents\visual studio 2015\Projects\ADGP125\ADGP125\obj\Debug\ADGP125.pdb
